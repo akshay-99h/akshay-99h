@@ -1,16 +1,23 @@
+![](https://github.com/akshay-99h/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/akshay-99h/github-stats/blob/master/generated/languages.svg)
+
+
 ### Hi there 👋
 
-<!--
-**akshay-99h/akshay-99h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working in Python and C++
 
-Here are some ideas to get you started:
+🌱 I’m currently learning AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on ML projects
+
+🤔 I’m looking for help with research
+
+💬 Ask me about Coding
+
+😄 Pronouns: He/him
+
+### Socials:
+
+<a href="https://www.instagram.com/akshay_99h/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="https://twitter.com/akshay_99h"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
+<a href="https://linkedin.com/in/akshay-prabhat-mishra"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
