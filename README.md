@@ -4,17 +4,16 @@
 
 ### Hi there 👋
 
-🔭 I’m currently working in Python and C++
-
-🌱 I’m currently learning AI
-
-👯 I’m looking to collaborate on ML projects
-
-🤔 I’m looking for help with research
-
-💬 Ask me about Coding
-
-😄 Pronouns: He/him
+```console
+       _        _                        _____  _____ _            @akshay-99h
+      | |      | |                      |  _  ||  _  | |           🔭 I’m currently working in Python and C++
+  __ _| | _____| |__   __ _ _   _ ______| |_| || |_| | |__         🌱 I’m currently learning Dynamic Programming
+ / _` | |/ / __| '_ \ / _` | | | |______\____ |\____ | '_ \        👯 I’m looking to collaborate on ML projects
+| (_| |   <\__ \ | | | (_| | |_| |      .___/ /.___/ / | | |       💬 Ask me about Data Structures
+ \__,_|_|\_\___/_| |_|\__,_|\__, |      \____/ \____/|_| |_|.      😄 Pronouns: He/him
+                             __/ |                          
+                            |___/                           
+```
 
 ### Socials:
 
