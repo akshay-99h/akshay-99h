@@ -1,6 +1,3 @@
-![](https://github.com/akshay-99h/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/akshay-99h/github-stats/blob/master/generated/languages.svg)
-
 
 ### Hi there 👋
 
@@ -15,8 +12,10 @@
                             |___/                           
 ```
 
-### Socials:
+![](https://github.com/akshay-99h/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/akshay-99h/github-stats/blob/master/generated/languages.svg)
 
-<a href="https://www.instagram.com/akshay_99h/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href="https://twitter.com/akshay_99h"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
-<a href="https://linkedin.com/in/akshay-prabhat-mishra"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+[![Linkedin badge](https://img.shields.io/badge/Akshay_Prabhat_Mishra-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-99h)
+[![Twitter badge](https://img.shields.io/badge/@akshay__99h-30302f?style=flat&logo=twitter)](https://twitter.com/akshay_99h)
+[![Instagram Badge](https://img.shields.io/badge/@akshay__99h-30302f?style=flat&logo=instagram)](https://www.instagram.com/akshay_99h/)
+[![Gmail Badge](https://img.shields.io/badge/Akshay_Prabhat_Mishra-30302f?style=flat&logo=gmail)](mailto:akshaypmishra02@gmail.com)
