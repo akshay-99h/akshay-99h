@@ -18,4 +18,4 @@
 [![Linkedin badge](https://img.shields.io/badge/Akshay_Prabhat_Mishra-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-99h)
 [![Twitter badge](https://img.shields.io/badge/@akshay__99h-30302f?style=flat&logo=twitter)](https://twitter.com/akshay_99h)
 [![Instagram Badge](https://img.shields.io/badge/@akshay__99h-30302f?style=flat&logo=instagram)](https://www.instagram.com/akshay_99h/)
-[![Gmail Badge](https://img.shields.io/badge/Akshay_Prabhat_Mishra-30302f?style=flat&logo=gmail)](mailto:akshaypmishra02@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/akshaypmishra02@gmail.com-30302f?style=flat&logo=gmail)](mailto:akshaypmishra02@gmail.com)
