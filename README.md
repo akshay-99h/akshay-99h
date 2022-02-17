@@ -16,7 +16,7 @@
 ---
 <h1 align="center">Hello! 👋, I'm Akshay!</h1>
 
-<img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" align="right" width="350em">
+<img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" align="right" width="340em">
 
 [![LinkedIn: Akshay Prabhat Mishra](https://img.shields.io/badge/-Akshay%20Prabhat%20Mishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//akshay-99h/)](https://www.linkedin.com/in/akshay-99h/)
 [![Twitter: Akshay Prabhat Mishra](https://img.shields.io/badge/-akshay__99h-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/akshay_99h/)](https://twitter.com/akshay_99h/)
@@ -36,9 +36,9 @@
 ---
 # **Other GitHub Stats**
 <div align="center">
-       <img src="https://github.com/akshay-99h/github-stats/blob/master/generated/overview.svg">
-       <img src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="210em">
-       <img src="https://github.com/akshay-99h/github-stats/blob/master/generated/languages.svg">
+       <img src="https://github.com/akshay-99h/github-stats/blob/master/generated/overview.svg" width="35%">
+       <img src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="17%">
+       <img src="https://github.com/akshay-99h/github-stats/blob/master/generated/languages.svg" width="35%">
 </div>
 
 ---
