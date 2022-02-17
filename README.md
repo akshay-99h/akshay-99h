@@ -24,7 +24,7 @@
 [![Instagram: Akshay Prabhat Mishra](https://img.shields.io/badge/akshay__99h-e1306c?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/akshay_99h/)](https://www.instagram.com/akshay_99h/)
 [![GitHub Akshay Prabhat Mishra](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h)
 
-<img src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif" width="50%">
+<img src="https://media.giphy.com/media/dXX6XfRIsOWf6/giphy.gif" width="50%">
 
 ---
 # **GitHub Stats**
