@@ -24,7 +24,7 @@
 [![Instagram: Akshay Prabhat Mishra](https://img.shields.io/badge/akshay__99h-e1306c?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/akshay_99h/)](https://www.instagram.com/akshay_99h/)
 [![GitHub Akshay Prabhat Mishra](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h)
 
-<img src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif" width="60%">
+<img src="https://media.giphy.com/media/2jMtpIi8mhE8ctiMtK/giphy.gif" width="50%">
 
 ---
 # **GitHub Stats**
@@ -35,11 +35,10 @@
 
 ---
 # **Other GitHub Stats**
-<div align="center">
-       <img src="https://github.com/akshay-99h/github-stats/blob/master/generated/overview.svg" width="35%">
-       <img src="https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif" width="17%">
-       <img src="https://github.com/akshay-99h/github-stats/blob/master/generated/languages.svg" width="35%">
-</div>
+<span>
+       <img src="https://github.com/akshay-99h/github-stats/blob/master/generated/overview.svg" align="center">
+       <img src="https://github.com/akshay-99h/github-stats/blob/master/generated/languages.svg" align="center">
+</span>
 
 ---
 
