@@ -1,9 +1,8 @@
 
 
-<h1 align="center">Hello! 👋, I'm Akshay!</h1>
-<h3 align="center">“First, solve the problem. Then, write the code.” – John Johnson</h3>
+<h1 align="center">Hello! 👋, I'm Akshay!<br />
+<span align="center"><a href="https://github.com/akshay-99h"><img src="https://img.shields.io/github/followers/akshay-99h?label=follow&style=social" /></a>    <img src="https://komarev.com/ghpvc/?username=akshay-99h&style=flat-square&color=blue" alt=""/></span></h1>
 
----
 ```console
        _        _                        _____  _____ _            @akshay-99h
       | |      | |                      |  _  ||  _  | |           🔭 I’m currently working in Python and C++
@@ -15,20 +14,14 @@
                             |___/                           
 ```
 
----
-
 <!-- <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" style="width:10vh"> -->
 
-## **GitHub Stats**
+##
 
-![.](https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia)
-![.](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-99h&theme=blue-green)
-![.](http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=000000)
+![.](http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=252525)
+![.](https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia&background=252525)
 
-[![GitHub Akshay Prabhat Mishra](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h)
-<img src="https://komarev.com/ghpvc/?username=akshay-99h&style=flat-square&color=blue" alt=""/>
-
----
+##
 
 ### 📱 Contact
 
