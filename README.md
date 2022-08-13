@@ -23,6 +23,10 @@
 
 ![.](https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia)
 ![.](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-99h&theme=blue-green)
+![.](http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=000000)
+
+[![GitHub Akshay Prabhat Mishra](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h)
+<img src="https://komarev.com/ghpvc/?username=akshay-99h&style=flat-square&color=blue" alt=""/>
 
 ---
 
@@ -46,7 +50,6 @@
 [![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14896521/akshay-prabhat-mishra)
 [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/akshay_99h/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshay-99h)
-[![GitHub Akshay Prabhat Mishra](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h)
 
  <!-- ### 💻 OS -->
 
@@ -127,11 +130,11 @@
 <!-- [![](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white)]() -->
 <!-- [![](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)]() -->
 
-### 👩‍💻 IDE
+<!-- ### 👩‍💻 IDE -->
 
-[![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
-[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
-[![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]()
+<!-- [![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()-->
+<!-- [![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()-->
+<!-- [![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)]()-->
 
 <!-- ### 💻 Terminal -->
 
