@@ -18,8 +18,7 @@
 
 ##
 
-![.](http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=252525)
-![.](https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia&background=252525)
+<img src="http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=252525" width="45%"><img src="https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia&background=252525" width="45%">
 
 ##
 
