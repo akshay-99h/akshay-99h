@@ -18,9 +18,9 @@
 
 ##
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=252525" width="45%"><img src="https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia&background=252525" width="45%">
+<a href="https://app.daily.dev/akshay_99h" align="center"><img src="https://api.daily.dev/devcards/f809664665b347d2ad5ec07207a51022.png?r=pzs" width="400" alt="Akshay Prabhat Mishra's Dev Card"/></a>
 
-##
+<img src="http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=252525" width="45%"><img src="https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia&background=252525" width="45%">
 
 ### 📱 Contact
 
