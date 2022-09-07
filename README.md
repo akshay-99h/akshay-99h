@@ -18,7 +18,7 @@
 
 ##
 |🧑🏻‍💻 Dev Card | 📱 Contact |👨 Socials|
-| --------- | :---: | :--------- |
+| --------- | :--- | :--------- |
 | <a href="https://app.daily.dev/akshay_99h" align="center"><img src="https://api.daily.dev/devcards/f809664665b347d2ad5ec07207a51022.png?r=pzs" width="400" alt="Akshay Prabhat Mishra's Dev Card"/></a>|[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypmishra02@gmail.com)  [![WhatsApp: Akshay Prabhat Mishra](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919650496383)| [![LinkedIn: Akshay Prabhat Mishra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-99h/) [![Twitter: Akshay Prabhat Mishra](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshay_99h/) [![Instagram: Akshay Prabhat Mishra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_99h/) [![Snapchat: Akshay Prabhat Mishra](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/akshay_99h) [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/akshay_99h/)
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=252525" width="45%"><img src="https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia&background=252525" width="45%">
