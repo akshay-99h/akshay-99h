@@ -17,31 +17,11 @@
 <!-- <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" style="width:10vh"> -->
 
 ##
-
-<a href="https://app.daily.dev/akshay_99h" align="center"><img src="https://api.daily.dev/devcards/f809664665b347d2ad5ec07207a51022.png?r=pzs" width="400" alt="Akshay Prabhat Mishra's Dev Card"/></a>
+|🧑🏻‍💻 Dev Card | 📱 Contact |👨 Socials|
+| --------- | :---: | :--------- |
+| <a href="https://app.daily.dev/akshay_99h" align="center"><img src="https://api.daily.dev/devcards/f809664665b347d2ad5ec07207a51022.png?r=pzs" width="400" alt="Akshay Prabhat Mishra's Dev Card"/></a>|[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypmishra02@gmail.com)  [![WhatsApp: Akshay Prabhat Mishra](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919650496383)| [![LinkedIn: Akshay Prabhat Mishra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-99h/) [![Twitter: Akshay Prabhat Mishra](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshay_99h/) [![Instagram: Akshay Prabhat Mishra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_99h/) [![Snapchat: Akshay Prabhat Mishra](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/akshay_99h) [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/akshay_99h/)
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=252525" width="45%"><img src="https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia&background=252525" width="45%">
-
-### 📱 Contact
-
-[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypmishra02@gmail.com)
-[![WhatsApp: Akshay Prabhat Mishra](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919650496383)
-
-### 👨 Socials
-
-[![LinkedIn: Akshay Prabhat Mishra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-99h/)
-[![Twitter: Akshay Prabhat Mishra](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshay_99h/)
-[![Instagram: Akshay Prabhat Mishra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_99h/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/akshay_99h)
-[![Quora: Akshay Prabhat Mishra](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Akshay-Prabhat-Mishra)
-[![Snapchat: Akshay Prabhat Mishra](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/akshay_99h)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/akshay-99h/)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/akshaypmis086c)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/akshaypmishra02)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/akshay99h)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14896521/akshay-prabhat-mishra)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/akshay_99h/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshay-99h)
 
  <!-- ### 💻 OS -->
 
