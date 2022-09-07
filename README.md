@@ -70,7 +70,7 @@
 
 ### 🖍 Design
 
-[![](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)]()
+> [![](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)]()
 [![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)]()
 [![](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)]()
 [![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)]()
@@ -120,11 +120,11 @@
 
 ---
 ## **Other GitHub Stats**
-<span style="display:flex;direction:row;justify-content:space-around">
+<span width=100% align=center>
        <img src="https://github.com/akshay-99h/github-stats/blob/master/generated/overview.svg" style="width:25vw">
        <img src="https://github.com/akshay-99h/github-stats/blob/master/generated/languages.svg" style="width:25vw">
 </span>
 
 ---
 
-<img src="https://media.giphy.com/media/pZT6U06pyiap5oNcOk/giphy.gif" style="display:flex; direction:row; height:50vh; width: 100vw">
+<img src="https://media.giphy.com/media/pZT6U06pyiap5oNcOk/giphy.gif"  width=100%>
