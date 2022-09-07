@@ -21,7 +21,9 @@
 | --------- | :--- | :--------- |
 | <a href="https://app.daily.dev/akshay_99h" align="center"><img src="https://api.daily.dev/devcards/f809664665b347d2ad5ec07207a51022.png?r=pzs" width="400" alt="Akshay Prabhat Mishra's Dev Card"/></a>|[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypmishra02@gmail.com)  [![WhatsApp: Akshay Prabhat Mishra](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919650496383)| [![LinkedIn: Akshay Prabhat Mishra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-99h/) [![Twitter: Akshay Prabhat Mishra](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshay_99h/) [![Instagram: Akshay Prabhat Mishra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_99h/) [![Snapchat: Akshay Prabhat Mishra](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/akshay_99h) [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/akshay_99h/)
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=252525" width="45%"><img src="https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia&background=252525" width="45%">
+| 🔥 Streak | 📊 Stats |
+| --- | --- |
+| <img src="http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=252525" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia&background=252525" width="100%"> |
 
  <!-- ### 💻 OS -->
 
@@ -42,7 +44,7 @@
 
 ### 🚀 Skills
 
-[![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+> [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
@@ -54,17 +56,8 @@
 [![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]()
-[![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)]()
-[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
 [![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=whit)]()
 [![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()
-[![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=whit)]()
-[![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)]()
-[![](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)]()
-[![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)]()
-[![](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)]()
-[![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)]()
-[![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]()
 [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 
 <!-- ### 🎶 Sound -->
