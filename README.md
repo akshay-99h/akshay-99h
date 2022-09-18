@@ -1,7 +1,6 @@
-
-
-<h1 align="center">Hello! 👋, I'm Akshay!<br />
-<span align="center"><a href="https://github.com/akshay-99h"><img src="https://img.shields.io/github/followers/akshay-99h?label=follow&style=social" /></a>    <img src="https://komarev.com/ghpvc/?username=akshay-99h&style=flat-square&color=blue" alt=""/></span></h1>
+![akshay-99h](https://socialify.git.ci/akshay-99h/akshay-99h/image?description=1&descriptionEditable=Hello!%20%F0%9F%91%8B%2C%20I%27m%20Akshay!%0AFeel%20free%20to%20connect%20and%20explore%20tech%20with%20me%F0%9F%A5%B3&owner=1&pattern=Floating%20Cogs&theme=Dark)
+[![github](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h)
+ <img src="https://komarev.com/ghpvc/?username=akshay-99h&style=flat-square&color=blue" alt=""/>
 
 ```console
        _        _                        _____  _____ _            @akshay-99h
@@ -14,12 +13,14 @@
                             |___/                           
 ```
 
-<!-- <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" style="width:10vh"> -->
+<!-- <img src="" style="width:10vh"> -->
 
 ##
 |🧑🏻‍💻 Dev Card | 📱 Contact |👨 Socials|
-| --------- | :--- | :--------- |
-| <a href="https://app.daily.dev/akshay_99h"><img src="https://api.daily.dev/devcards/f809664665b347d2ad5ec07207a51022.png?r=3pc" width="400" alt="Akshay Prabhat Mishra's Dev Card"/></a>|[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypmishra02@gmail.com)  [![WhatsApp: Akshay Prabhat Mishra](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919650496383)| [![LinkedIn: Akshay Prabhat Mishra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-99h/) [![Twitter: Akshay Prabhat Mishra](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshay_99h/) [![Instagram: Akshay Prabhat Mishra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_99h/) [![Snapchat: Akshay Prabhat Mishra](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/akshay_99h) [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/akshay_99h/)
+| --------- | :---: | :---------: |
+| <a href="https://app.daily.dev/akshay_99h"><img src="https://api.daily.dev/devcards/f809664665b347d2ad5ec07207a51022.png?r=3pc" width="400" alt="Akshay Prabhat Mishra's Dev Card"/></a>|[![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypmishra02@gmail.com)  [![WhatsApp: Akshay Prabhat Mishra](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919650496383) <br /><br /><img src="https://media.giphy.com/media/l2SpOsTrYcfjoPKsU/giphy.gif" width=110vh height=110vh/> | [![LinkedIn: Akshay Prabhat Mishra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-99h/) [![Twitter: Akshay Prabhat Mishra](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshay_99h/) [![Instagram: Akshay Prabhat Mishra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_99h/) [![Snapchat: Akshay Prabhat Mishra](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/akshay_99h) [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/akshay_99h/) <br /><br /> <img src="https://media.giphy.com/media/huyZxIJvtqVeRp7QcS/giphy.gif" height=300vh />
+
+<!-- <img src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" height=400vh/> -->
 
 | 🔥 Streak | 📊 Stats |
 | --- | --- |
