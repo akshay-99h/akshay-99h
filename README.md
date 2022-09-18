@@ -1,4 +1,4 @@
-![akshay-99h](https://socialify.git.ci/akshay-99h/akshay-99h/image?description=1&descriptionEditable=Hello!%20%F0%9F%91%8B%2C%20I%27m%20Akshay!%0AFeel%20free%20to%20connect%20and%20explore%20tech%20with%20me%F0%9F%A5%B3&owner=1&pattern=Floating%20Cogs&theme=Dark)
+![akshay-99h](https://socialify.git.ci/akshay-99h/akshay-99h/image?description=1&descriptionEditable=Hello%20%F0%9F%91%8B%2C%20I%27m%20Akshay!%0AFeel%20free%20to%20connect%20and%20explore%20tech%20with%20me%F0%9F%A5%B3&owner=1&pattern=Floating%20Cogs&theme=Dark)
 [![github](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h)
  <img src="https://komarev.com/ghpvc/?username=akshay-99h&style=flat-square&color=blue" alt=""/>
 
