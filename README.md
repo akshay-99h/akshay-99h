@@ -26,8 +26,6 @@
 | --- | --- |
 | <img src="http://github-readme-streak-stats.herokuapp.com?user=akshay-99h&theme=dark&background=252525" width="100%"> | <img src="https://github-readme-stats.vercel.app/api?username=akshay-99h&show_icons=true&theme=algolia&background=252525" width="100%"> |
 
-
-
  <!-- ### 💻 OS -->
 
 <!-- [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]() -->
@@ -120,6 +118,10 @@
 <!-- [![](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)]() -->
 
 <!--        <img align="right" src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif" width="35%"> -->
+
+---
+
+[![@akshay_99h's Holopin board](https://holopin.io/api/user/board?user=akshay_99h)](https://holopin.io/@akshay_99h)
 
 ---
 ## **Other GitHub Stats**
