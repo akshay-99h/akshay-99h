@@ -4,8 +4,8 @@
 
 ```console
        _        _                        _____  _____ _            @akshay-99h
-      | |      | |                      |  _  ||  _  | |           🔭 I’m currently working in Python and C++
-  __ _| | _____| |__   __ _ _   _ ______| |_| || |_| | |__         🌱 I’m currently learning Dynamic Programming
+      | |      | |                      |  _  ||  _  | |           🔭 I’m currently working in Java and Cloud
+  __ _| | _____| |__   __ _ _   _ ______| |_| || |_| | |__         🌱 I’m currently learning Object Oriented Programming
  / _` | |/ / __| '_ \ / _` | | | |______\____ |\____ | '_ \        👯 I’m looking to collaborate on ML projects
 | (_| |   <\__ \ | | | (_| | |_| |      .___/ /.___/ / | | |       💬 Ask me about Data Structures
  \__,_|_|\_\___/_| |_|\__,_|\__, |      \____/ \____/|_| |_|.      😄 Pronouns: He/him
