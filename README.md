@@ -134,4 +134,7 @@
 
 [![Akshay's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=akshay-99h&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <!--img src="https://media.giphy.com/media/pZT6U06pyiap5oNcOk/giphy.gif"  width=100%-->
