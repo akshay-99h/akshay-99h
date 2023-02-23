@@ -1,6 +1,6 @@
 <!-- ![akshay-99h](https://socialify.git.ci/akshay-99h/akshay-99h/image?description=1&descriptionEditable=Hello%20%F0%9F%91%8B%2C%20I%27m%20Akshay!%0AFeel%20free%20to%20connect%20and%20explore%20tech%20with%20me%F0%9F%A5%B3&owner=1&pattern=Floating%20Cogs&theme=Dark) -->
 
-# Hey 👋
+<img src="https://komarev.com/ghpvc/?username=akshay-99h&style=flat-square&color=blue" alt=""/> [![github](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h) [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/akshay_99h/)
 
 ```console
        _        _                        _____  _____ _            @akshay-99h
@@ -12,8 +12,6 @@
                              __/ |                                 ❣️ P.S. Would love to talk about DevOps.
                             |___/                           
 ```
-
-<img src="https://komarev.com/ghpvc/?username=akshay-99h&style=flat-square&color=blue" alt=""/> [![github](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h) [![Gmail Badge](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshaypmishra02@gmail.com)  [![WhatsApp: Akshay Prabhat Mishra](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919650496383) [![LinkedIn: Akshay Prabhat Mishra](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-99h/) [![Twitter: Akshay Prabhat Mishra](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshay_99h/) [![Instagram: Akshay Prabhat Mishra](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshay_99h/) [![Snapchat: Akshay Prabhat Mishra](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/akshay_99h) [![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/akshay_99h/)
 
 [![.](./apm.bio.link.jpg)](https://apm.bio.link)
 
