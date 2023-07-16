@@ -3,6 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=akshay-99h&style=flat-square&color=blue" alt=""/> [![github](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h) 
 <!--[![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/akshay_99h/)-->
 
+
 ### 🤙 Contact
 [![](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://apm.bio.link)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-99h)
@@ -45,6 +46,7 @@
 <!-- [![CrunchyRoll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)]() -->
 <!-- [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]() -->
 <!-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() -->
+
 
 ### 🚀 Tools and Skills
 
@@ -161,7 +163,10 @@
 
 <!--img src="https://media.giphy.com/media/pZT6U06pyiap5oNcOk/giphy.gif"  width=100%-->
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay-99h&theme=ayu_mirage" width=99%>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshay-99h&theme=ayu_mirage" width=49%> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshay-99h&theme=ayu_mirage" width=49%>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshay-99h&theme=ayu_mirage" width=49%><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshay-99h&theme=ayu_mirage&utcOffset=8" width=49%>
+### 📈 Stats
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay-99h&theme=ayu_mirage">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshay-99h&theme=ayu_mirage">     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshay-99h&theme=ayu_mirage">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshay-99h&theme=ayu_mirage">     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshay-99h&theme=ayu_mirage&utcOffset=8">
