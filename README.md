@@ -143,7 +143,6 @@
 
 <!--        <img align="right" src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif" width="35%"> -->
 
----
 
 <!-- [![@akshay_99h's Holopin board](https://holopin.io/api/user/board?user=akshay_99h)](https://holopin.io/@akshay_99h)
 
@@ -162,12 +161,7 @@
 
 <!--img src="https://media.giphy.com/media/pZT6U06pyiap5oNcOk/giphy.gif"  width=100%-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay-99h&theme=ayu_mirage)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay-99h&theme=ayu_mirage" width=99%>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshay-99h&theme=ayu_mirage)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshay-99h&theme=ayu_mirage)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshay-99h&theme=ayu_mirage)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshay-99h&theme=ayu_mirage&utcOffset=8)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshay-99h&theme=ayu_mirage" width=49%> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshay-99h&theme=ayu_mirage" width=49%>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshay-99h&theme=ayu_mirage" width=49%><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshay-99h&theme=ayu_mirage&utcOffset=8" width=49%>
