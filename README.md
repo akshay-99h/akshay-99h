@@ -170,3 +170,4 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshay-99h&theme=ayu_mirage">     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshay-99h&theme=ayu_mirage">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshay-99h&theme=ayu_mirage">     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshay-99h&theme=ayu_mirage&utcOffset=8">
+[![akshay-99h's GitHub | Stats](https://stats.quine.sh/akshay-99h/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akshay-99h)
