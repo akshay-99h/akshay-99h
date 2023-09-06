@@ -1,18 +1,15 @@
 <!-- ![akshay-99h](https://socialify.git.ci/akshay-99h/akshay-99h/image?description=1&descriptionEditable=Hello%20%F0%9F%91%8B%2C%20I%27m%20Akshay!%0AFeel%20free%20to%20connect%20and%20explore%20tech%20with%20me%F0%9F%A5%B3&owner=1&pattern=Floating%20Cogs&theme=Dark) -->
 
-<img src="https://komarev.com/ghpvc/?username=akshay-99h&style=flat-square&color=blue" alt=""/> [![github](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h) 
 <!--[![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/akshay_99h/)-->
-
-
-### 🤙 Contact
 [![](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://apm.bio.link)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-99h)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akshay_99h)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akshay_99h)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://akshayprabhatmishra@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=akshay-99h&style=flat-square&color=blue" alt=""/> [![github](https://img.shields.io/github/followers/akshay-99h?label=follow&style=social)](https://github.com/akshay-99h)
 
 
-```console
+<!--```console
        _        _                        _____  _____ _            @akshay-99h
       | |      | |                      |  _  ||  _  | |           🔭 I’m currently working on Azure
   __ _| | _____| |__   __ _ _   _ ______| |_| || |_| | |__         🌱 I’m learning DSA and advancing WebDev.
@@ -21,7 +18,7 @@
  \__,_|_|\_\___/_| |_|\__,_|\__, |      \____/ \____/|_| |_|.      😄 Pronouns: He/him
                              __/ |                                 ❣️ P.S. Would love to talk about DevOps.
                             |___/                           
-```
+```-->
 
 <!-- <img src="" style="width:10vh"> -->
 <!-- 
@@ -48,7 +45,7 @@
 <!-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]() -->
 
 
-### 🚀 Tools and Skills
+<!--### 🚀 Tools and Skills
 
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
@@ -83,7 +80,7 @@
 [![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
 [![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 [![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)]()
-[![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
+[![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()-->
 
 <!-- ### 🎶 Sound -->
 
@@ -164,10 +161,7 @@
 <!--img src="https://media.giphy.com/media/pZT6U06pyiap5oNcOk/giphy.gif"  width=100%-->
 
 
-### 📈 Stats
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshay-99h&theme=ayu_mirage">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshay-99h&theme=ayu_mirage">     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshay-99h&theme=ayu_mirage">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshay-99h&theme=ayu_mirage">     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akshay-99h&theme=ayu_mirage&utcOffset=8">
 [![akshay-99h's GitHub | Stats](https://stats.quine.sh/akshay-99h/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akshay-99h)
+[![akshay-99h's GitHub | Dependencies](https://stats.quine.sh/akshay-99h/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akshay-99h)
+[![akshay-99h's GitHub | Topics Over Time](https://stats.quine.sh/akshay-99h/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akshay-99h)
+[![akshay-99h's GitHub | Languages Over Time](https://stats.quine.sh/akshay-99h/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akshay-99h)
