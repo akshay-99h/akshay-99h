@@ -161,7 +161,7 @@
 <!--img src="https://media.giphy.com/media/pZT6U06pyiap5oNcOk/giphy.gif"  width=100%-->
 
 
-[![akshay-99h's GitHub | Stats](https://stats.quine.sh/akshay-99h/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akshay-99h)
-[![akshay-99h's GitHub | Dependencies](https://stats.quine.sh/akshay-99h/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akshay-99h)
-[![akshay-99h's GitHub | Topics Over Time](https://stats.quine.sh/akshay-99h/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akshay-99h)
-[![akshay-99h's GitHub | Languages Over Time](https://stats.quine.sh/akshay-99h/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=akshay-99h)
+[![akshay-99h's GitHub | Stats](https://stats.quine.sh/akshay-99h/github?theme=dark&w=48%)](https://quine.sh?utm_source=widgets&utm_campaign=akshay-99h)
+[![akshay-99h's GitHub | Dependencies](https://stats.quine.sh/akshay-99h/dependencies?theme=dark&w=48%)](https://quine.sh?utm_source=widgets&utm_campaign=akshay-99h)
+<a href="https://stats.quine.sh/akshay-99h/topics-over-time?theme=dark"><img style="width: 48%" src="https://stats.quine.sh/akshay-99h/topics-over-time?theme=dark" alt="akshay-99h's GitHub | Topics Over Time"></a><a href="https://stats.quine.sh/akshay-99h/languages-over-time?theme=dark"><img style="width: 48%;" src="https://stats.quine.sh/akshay-99h/languages-over-time?theme=dark" alt="akshay-99h's GitHub | Languages Over Time"></a>
+
