@@ -1,49 +1,40 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I’m Akshay Prabhat Mishra</h1>
-<h3 align="center">Full-Stack Developer specializing in scalable web apps, microservices & AI integration 🚀</h3>
+## Hey, I’m a full‑stack dev from India 👋
 
-<p align="center">
-  <a href="https://github.com/akshay-99h"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/akshay-99h"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/akshay_99h"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:akshayprabhatmishra@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+Mid-level **full‑stack** developer from India, working mostly with modern JavaScript/TypeScript, scalable backends, and cloud infrastructure.  
+Building production apps, shipping on AWS, and experimenting with AI, offline‑first UX, and better DevOps workflows.
 
 ---
 
-## 🚀 About Me
-I’m an analytical thinker and Full-Stack Developer passionate about building intuitive, high-performance web applications. With expertise in microservices, AI integration, and cloud deployments, I love translating complex problems into seamless user experiences that scale.
+## What I work with
 
-- 🎯 **Specialties:** Scalable architectures, microservices, performance tuning, exceptional UX  
-- 💡 **Current Focus:** AI-powered dashboards, interactive chatbots, node-based CMS  
-- 🌱 **Always Learning:** Data structures & algorithms, advanced Web Dev patterns  
-- 🤝 **Community:** Delhi Lead & Co-Organiser at Open Community of Developers (2022–2024)
+- **Languages**: TypeScript, JavaScript, SQL, a bit of Bash.  
+- **Backend**: Node.js, Express, NestJS, REST APIs, auth, payments, webhooks.  
+- **Frontend**: React, Next.js, modern SPA/SSR apps with good DX and performance.  
+- **Databases**: PostgreSQL (AWS RDS), MongoDB; schema design, migrations, query tuning.  
+- **Infra & DevOps**: Docker, AWS ECS, load balancers, SSL/ACM, CI/CD, infra‑as‑code experiments.  
+- **Tooling**: GitHub, GitHub Actions, pnpm, Husky, macOS dev setup.  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <!-- GitHub overall stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay-99h&theme=dark&show_icons=true" alt="GitHub Stats"/>
-  <!-- Top languages breakdown -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-99h&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-<p align="center">
-  <!-- Contribution streak & all-time commits -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akshay-99h&theme=dark&show_icons=true&include_all_commits=true&count_private=true&streak=true" alt="Streak Stats"/>
-  <!-- Achievement “trophies” -->
-  <img src="https://github-profile-trophy.vercel.app/?username=akshay-99h&theme=dark&no-frame=true&margin-w=15&margin-h=10" alt="Profile Trophy"/>
-</p>
-<p align="center">
-  <!-- WakaTime coding activity -->
-  <img src="https://wakatime.com/share/github/akshay-99h.svg" alt="WakaTime Stats"/>
-  <!-- Profile view counter -->
-  <img src="https://views.whatshappening.dev/views/akshay-99h/github" alt="Profile Views"/>
-</p>
-<p align="center">
-  <!-- Total stars count -->
-  <img src="https://img.shields.io/github/stars/akshay-99h?style=social" alt="GitHub Stars"/>
-  <!-- Follower count -->
-  <img src="https://img.shields.io/github/followers/akshay-99h?label=Followers&style=social" alt="Followers"/>
-</p>
+## Some things I’ve built
 
+- **Game analytics dashboards** – Real-time events, leaderboards, and admin tooling
+- **Full-fledged payment platform** – Wallets, transactions, mobile recharges, flight bookings, and admin reconciliation
+- **Food ordering platform** – Multi-role system with customers, restaurants, delivery partners, and admins  
+- **Internal admin & node-based tools** – Scenario builders, conditional flows, and content management  
+- **Scaffolding & DX tools** – Opinionated backend starters with security, linting, and Git hooks  
+- **Auth & role-based systems** – Secure access control across multiple user roles  
+- **Real-time & offline-first apps** – WebSockets, PWAs, IndexedDB, and caching strategies  
+- **AI-powered prototypes** – LLM integrations, micro-feeds, and RAG-style experiments  
+- **CI/CD & deployments** – Dockerized services, cloud setups, and release pipelines  
+
+Production code, quick prototypes, and “learning in public” experiments live here.
+
+---
+
+## What I’m exploring right now
+
+- Getting deeper into **system design** and scalable backend patterns.  
+- Better **agentic AI** and LLM integration in real products, not just demos.  
+- Cleaner **DevOps** pipelines and cost‑effective cloud setups for side projects.
+- Turning ideas into **well‑designed, scalable products** – from UX flows and pricing to architecture that can handle real traffic.Z
