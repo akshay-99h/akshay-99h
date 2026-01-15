@@ -37,4 +37,6 @@ Production code, quick prototypes, and “learning in public” experiments live
 - Getting deeper into **system design** and scalable backend patterns.  
 - Better **agentic AI** and LLM integration in real products, not just demos.  
 - Cleaner **DevOps** pipelines and cost‑effective cloud setups for side projects.
-- Turning ideas into **well‑designed, scalable products** – from UX flows and pricing to architecture that can handle real traffic.Z
+- Turning ideas into **well‑designed, scalable products** – from UX flows and pricing to architecture that can handle real traffic.
+
+  
